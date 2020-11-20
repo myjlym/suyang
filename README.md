@@ -10,10 +10,10 @@
 
 https://www.baidu.com/
 
-## 3、*代码块插入*
+## 3、*代码插入*
 
 ### 字符串
-
+`print("hello python)`
 ```python
 s="hello python"
 print(s)
