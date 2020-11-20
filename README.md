@@ -13,7 +13,7 @@ https://www.baidu.com/
 ## 3、*代码插入*
 
 ### 字符串
-`print("hello python)`
+`print("hello python")`
 ```python
 s="hello python"
 print(s)
